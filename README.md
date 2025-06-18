@@ -1,10 +1,9 @@
 # glcm-lung-cancer-detector
 Analisis Citra Kanker Paru Berbasis GLCM & Machine Learning
 
-Proyek ini mengembangkan sistem klasifikasi gambar histopatologis paru-paru (kanker vs normal) dengan pendekatan **ekstraksi fitur tekstur menggunakan GLCM (Gray-Level Co-occurrence Matrix)** dan **model Machine Learning**.
+Proyek ini mengembangkan sistem klasifikasi gambar histopatologis paru-paru (kanker vs normal) dengan pendekatan **ekstraksi fitur tekstur menggunakan GLCM (Gray-Level Co-occurrence Matrix)** 
 
 <img src="https://img.shields.io/badge/Status-Active-blue" alt="status-badge">
-<img src="https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green" alt="ml-badge">
 <img src="https://img.shields.io/badge/Interface-Gradio-orange" alt="gradio-badge">
 
 ---
